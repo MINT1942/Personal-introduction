@@ -1,0 +1,27 @@
+html{
+    background-color: white;
+    /* 背景颜色 */
+}
+.up{
+    background-color: orangered;
+    /* 定义div.up的背景颜色 */
+    position: relative;
+    /* 更改控制位置的方法为绝对 */
+    width: 500px;
+    /* 定义宽度为500像素 */
+    height: 300px;
+    /* 定义高度为300像素 */
+}
+.up4{
+    position: relative;
+    /* 更改控制位置的方法为绝对 */
+    text-align: center;
+}
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* 修改页面的统一字体 */
+    margin: 0px;
+    /* 盒子模型 */
+    padding: 0px;
+    /* 盒子模型 */
+}
