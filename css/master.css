@@ -1,27 +1,72 @@
 html{
     background-color: white;
     /* 背景颜色 */
-}
-.up{
-    background-color: orangered;
-    /* 定义div.up的背景颜色 */
-    position: relative;
-    /* 更改控制位置的方法为绝对 */
-    width: 500px;
-    /* 定义宽度为500像素 */
-    height: 300px;
-    /* 定义高度为300像素 */
-}
-.up4{
-    position: relative;
-    /* 更改控制位置的方法为绝对 */
-    text-align: center;
-}
-*{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     /* 修改页面的统一字体 */
-    margin: 0px;
+    margin: 400px;
     /* 盒子模型 */
     padding: 0px;
     /* 盒子模型 */
+}
+.panel{
+    position:absolute;
+    top: 130px;
+    width: 700px;
+    height: 500px;
+    left: 600px;
+}
+.h61{
+    position: relative;
+    top: -22px;
+    left: 5px;
+}
+.h11{
+    position: relative;
+    left: 3px;
+    top: -65px
+}
+.label{
+    position: relative;
+    top: 3px;
+    left: 60px;
+}
+.label1{
+    position: relative;
+    top: 3px;
+    left: 70px;
+}
+.label2{
+    position: relative;
+    top: 3px;
+    left: 80PX;
+}
+.label3{
+    position: relative;
+    top: 3px;
+    left: 90px;
+}
+.label4{
+    position: relative;
+    top: 3px;
+    left: 100px;
+}
+.tag{
+    position: relative;
+    top: 47px;
+    left: 130px;
+}
+hr{
+    position: relative;
+    top: -60px;
+    width: 450px;
+}
+.footer{
+    position: relative;
+    top: 470px;
+    text-align: center;
+}
+.icm{
+    position: relative;
+    top: -48.5px;
+    left: 60px;
 }
