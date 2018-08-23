@@ -1,3 +1,5 @@
-<h1>Developer：MINT</h1>     <h3>This is a Website</h3>
+<h1>开发者：MINT（金华松）</h1>     <h3>这是一个网站</h3>
 
-<h5>The project began in August 23, 2018.</h5>
+<h3>用于展现我编程之路的开始</h3>
+
+<h5>这个项目开始于 August 23, 2018.</h5>
