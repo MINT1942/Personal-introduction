@@ -10,55 +10,76 @@ html{
 }
 .panel{
     position:absolute;
+    text-align: center;
     top: 130px;
     width: 700px;
     height: 500px;
     left: 600px;
 }
+.panel-body{
+    position: relative;
+    text-align: center;
+}
 .h61{
     position: relative;
-    top: -22px;
-    left: 5px;
+    text-align: center;
+    left: -250px;
+    top: 20px;
 }
 .h11{
     position: relative;
-    left: 3px;
-    top: -65px
+    text-align: center;
+    left: -195px;
+    top: 15px;
 }
 .label{
     position: relative;
+    text-align: center;
     top: 3px;
     left: 60px;
 }
 .label1{
     position: relative;
+    text-align: center;
     top: 3px;
     left: 70px;
 }
 .label2{
     position: relative;
+    text-align: center;
     top: 3px;
     left: 80PX;
 }
 .label3{
     position: relative;
+    text-align: center;
     top: 3px;
     left: 90px;
 }
 .label4{
     position: relative;
+    text-align: center;
     top: 3px;
     left: 100px;
 }
 .tag{
     position: relative;
-    top: 47px;
-    left: 130px;
+    text-align: center;
+    top: 92px;
 }
 hr{
     position: relative;
+    text-align: center;
     top: -60px;
-    width: 450px;
+    width: 530px;
+    left: 70px;
+}
+.h{
+    position: relative;
+    text-align: center;
+    top: -40px;
+    left: -230px;
+    width: 40px;
 }
 .footer{
     position: relative;
@@ -67,6 +88,45 @@ hr{
 }
 .icm{
     position: relative;
-    top: -48.5px;
-    left: 60px;
+    text-align: center;
+    left: -349px;
+    top: -88px;
+}
+.dw{
+    position: relative;
+    text-align: center;
+    width: 698px;
+    left: -15px;
+    top: 0px;
+}
+.pj{
+    position: relative;
+    text-align: center;
+    left: -150px;
+    top: 3px;
+}
+.pj3{
+    position: relative;
+    text-align: center;
+    top: 3px;
+    left: -130px;
+}
+.pj2{
+    position: relative;
+    text-align: center;
+    top: 15px;
+}
+span{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    position: relative;
+    left: -225px;
+}
+.progress{
+    width: 500px;
+    position: relative;
+    left: 63px;
+    top: 29px;
+
 }
